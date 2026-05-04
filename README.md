@@ -19,7 +19,7 @@ The main goal is to show how parameter-efficient fine-tuning can approach full f
 
 ## Source notebook
 
-- `answer_for_problem1.ipynb`
+- `distilbert-imdb-lora-finetuning-benchmark.ipynb`
 
 ## Dataset
 
