@@ -156,4 +156,4 @@ The notebook produces:
 
 ## License
 
-Add your preferred license before publishing, for example MIT, Apache-2.0, or BSD-3-Clause.
+
